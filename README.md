@@ -1,0 +1,2 @@
+# JavaScriptTests
+.js tests
